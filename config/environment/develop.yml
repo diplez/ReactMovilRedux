@@ -1,0 +1,7 @@
+#
+# Configuracion de Api Develop
+# URL API-REST
+#
+config:
+  environment: Develop
+  API_URL: http://url:9191

@@ -1,0 +1,7 @@
+#
+# Configuracion de Api Production
+# URL API-REST
+#
+config:
+  environment: production
+  API_URL: URL DE Production

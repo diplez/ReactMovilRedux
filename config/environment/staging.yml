@@ -1,0 +1,7 @@
+#
+# Configuracion de Api Develop
+# URL API-REST
+#
+config:
+  environment: Staging
+  API_URL: URL DE Staging

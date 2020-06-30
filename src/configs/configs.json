@@ -1,0 +1,6 @@
+{
+    "config": {
+        "environment": "Develop",
+        "API_URL": "http://url.com"
+    }
+}
